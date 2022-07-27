@@ -97,8 +97,8 @@ Routes will be made in product-routes.js, tag-routes.js, and category-routes.js
 branches
 main
     develop
-        feature/connect-db
-        feature/models-catagory
+        |feature/connect-db
+        feature/models-category
         feature/models-Product
         feature/models-Tag
         feature/models-ProductTag
