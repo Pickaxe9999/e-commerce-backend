@@ -99,9 +99,10 @@ main
     develop
         |feature/connect-db
         |feature/models-category
-        feature/models-product
-        feature/models-tag
-        feature/models-ProductTag
+        |feature/models-product
+        |feature/models-tag
+        feature/models-productTag
+        feature/models-association
         feature/product-routes
         feature/tag-routes
         feature/catagory-routes
