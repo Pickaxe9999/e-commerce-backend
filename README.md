@@ -98,8 +98,8 @@ branches
 main
     develop
         |feature/connect-db
-        feature/models-category
-        feature/models-Product
+        |feature/models-category
+        feature/models-product
         feature/models-Tag
         feature/models-ProductTag
         feature/product-routes
