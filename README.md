@@ -104,7 +104,7 @@ main
         |feature/models-productTag
         |feature/models-association
         |feature/product-routes
-        feature/tag-routes
+        |feature/tag-routes
         feature/catagory-routes
 
 
