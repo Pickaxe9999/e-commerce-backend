@@ -101,9 +101,9 @@ main
         |feature/models-category
         |feature/models-product
         |feature/models-tag
-        feature/models-productTag
-        feature/models-association
-        feature/product-routes
+        |feature/models-productTag
+        |feature/models-association
+        |feature/product-routes
         feature/tag-routes
         feature/catagory-routes
 
