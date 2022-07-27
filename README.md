@@ -100,7 +100,7 @@ main
         |feature/connect-db
         |feature/models-category
         feature/models-product
-        feature/models-Tag
+        feature/models-tag
         feature/models-ProductTag
         feature/product-routes
         feature/tag-routes
